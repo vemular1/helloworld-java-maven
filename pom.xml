@@ -35,15 +35,15 @@
   
  <distributionManagement>
 	<repository>
-		<id>tata</id>
+		<id>Chikna</id>
 		<name>Internal Releases</name>
-		<url>http://52.66.106.91:8081/nexus/content/repositories/release/</url>
+		<url>http://35.226.255.91:8081/repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>tata</id>
+		<id>Chikna</id>
 		<name>Internal Releases</name>
-		<url>http://52.66.106.91:8081/nexus/content/repositories/snapshot/</url>
+		<url>http://35.226.255.91:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 
 </distributionManagement>
